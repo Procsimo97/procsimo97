@@ -24,7 +24,9 @@
   </p>
 </h3>
 <h3 align="center"> 〽 Статистика языков:
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procsimo97&layout=compact)](https://github.com/procsimo97/github-readme-stats)
+  <p>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procsimo97&layout=compact)](https://github.com/procsimo97/github-readme-stats)
 
+  </p>
 </h3>
