@@ -24,4 +24,4 @@
   </p>
 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?procsimo97=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procsimo97&layout=compact)](https://github.com/procsimo97/github-readme-stats)
